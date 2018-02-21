@@ -1,9 +1,7 @@
 # FDEM1D
-Frequency domain electromagnetic (FDEM) 1D forward and sensitivity modelling code.
-
-Created by Daan Hanssens
-
-Contact Daan.Hanssens@UGent.be
+Frequency domain electromagnetic (FDEM) 1D forward and sensitivity modelling code.  
+Created by Daan Hanssens  
+Contact Daan.Hanssens@UGent.be  
 
 
 ### Frequency domain electromagnetic 1D forward and sensitivity modelling: Overview, assessment and practical implementation(including MATLAB, Python and pseudo-code)
