@@ -17,9 +17,9 @@
 %
 %  Cite:
 %  Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M. and P.
-%  De Smedt, Frequency domain electromagnetic 1D forward and 
-%  sensitivity modelling: Overview, assessment and practical implementation
-%  (including MATLAB, Python and pseudo-code)
+%  De Smedt, Practical aspects of frequency domain electromagnetic forward 
+%  and sensitivity modelling of a magnetic dipole in a multi-layered 
+%  half-space: Submitted to Geoscience and Remote Sensing Magazine
 %
 
    clc; clear all; close all;
