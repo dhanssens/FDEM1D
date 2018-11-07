@@ -11,6 +11,12 @@
 %  characteristics are stored in the Sensor structure (S). This file is
 %  used as example to demonstrate the fieldnames within the structures. 
 %
+%  Cite:
+%  Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M. and P.
+%  De Smedt, Practical aspects of frequency domain electromagnetic forward 
+%  and sensitivity modelling of a magnetic dipole in a multi-layered 
+%  half-space: Submitted to Geoscience and Remote Sensing Magazine
+%
 %  Created by Daan Hanssens
 %  Ghent University, Belgium
 %  December, 2016
