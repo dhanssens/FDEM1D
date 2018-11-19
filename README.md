@@ -4,7 +4,7 @@ Created by Daan Hanssens
 Contact Daan.Hanssens@UGent.be  
 
 This repository contains the code associated with;  
-**Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M., and P. De Smedt. Practical aspects of frequency domain electromagnetic forward and sensitivity modelling of a magnetic dipole in a multi-layered half-space. Submitted to IEEE Geoscience and Remote Sensing Magazine, 2018.**
+**Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M., and P. De Smedt. Practical aspects of frequency domain electromagnetic forward and sensitivity modelling of a magnetic dipole in a multi-layered half-space. IEEE Geoscience and Remote Sensing Magazine.**
 
 Four different algorithms are presented: FDEM1DFWD_RC, FDEM1DFWD_PM, FDEM1DSENS_RC and FDEM1DSENS_PM. Where, FDEM1DFWD calculates the theoretical electromagnetic response of a loop-loop system located on or above a layered earth and FDEM1DSENS is used to obtain the sensitivity distribution within the considered model. Note that further discrepancy is made between the wave propagation approach, i.e. reflection coefficient (RC) or propagation matrix (PM). The presented algorithm calculates the forward response and/or sensitivity  theoretically for a layered half-space (i.e. model) and one instrument setup, with each execution. However, this can easily be adjusted by adding more ‘dimensions’ to the modelling process.
 
