@@ -62,10 +62,11 @@
 %  January, 2017
 %
 %  Cite:
-%  Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M. and P.
-%  De Smedt, Practical aspects of frequency domain electromagnetic forward 
-%  and sensitivity modelling of a magnetic dipole in a multi-layered 
-%  half-space: Submitted to Geoscience and Remote Sensing Magazine
+%  Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M., 
+%  and P. De Smedt. Frequency-Domain Electromagnetic Forward and 
+%  Sensitivity Modeling: Practical Aspects of modeling a Magnetic Dipole 
+%  in a Multilayered Half-Space. IEEE Geoscience and Remote Sensing 
+%  Magazine, 7(1), 74-85
 %
 
 function [FWD_IP,FWD_QP] = FDEM1DFWD_PM(S,M)
