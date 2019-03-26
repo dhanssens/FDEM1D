@@ -13,10 +13,11 @@
     used as example.
 
     Cite:
-    Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M., and De Smedt, P., 2018,
-    Practical aspects of frequency domain electromagnetic forward and sensitivity modelling 
-    of a magnetic dipole in a multi-layered half-space:
-    Submitted to IEEE Geoscience and Remote Sensing Magazine.
+    Hanssens, D., Delefortrie, S., De Pue, J., Van Meirvenne, M., 
+    and P. De Smedt. Frequency-Domain Electromagnetic Forward and 
+    Sensitivity Modeling: Practical Aspects of modeling a Magnetic Dipole 
+    in a Multilayered Half-Space. IEEE Geoscience and Remote Sensing 
+    Magazine, 7(1), 74-85
 
     Code created by Daan Hanssens and Jan De Pue
     Ghent University, Belgium
